@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T03:11:08.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.3.0" etag="yg65XU0lsqlv9YsCSs2U" type="github"><diagram id="xleadKCnxQuQl4tJ8LXf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-19T03:14:03.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Bpdm6DlVS1pWntDJt0OY" version="16.3.0" type="github">
+  <diagram id="xleadKCnxQuQl4tJ8LXf" name="Page-1">
+    <mxGraphModel dx="1170" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7StpGDbCdkMAcBUvWgea-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7StpGDbCdkMAcBUvWgea-9" target="7StpGDbCdkMAcBUvWgea-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7StpGDbCdkMAcBUvWgea-6" target="7StpGDbCdkMAcBUvWgea-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-3" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7StpGDbCdkMAcBUvWgea-2">
+          <mxGeometry x="-0.0207" y="2" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7StpGDbCdkMAcBUvWgea-6" target="7StpGDbCdkMAcBUvWgea-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-5" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7StpGDbCdkMAcBUvWgea-4">
+          <mxGeometry x="-0.0207" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-6" value="Tomada de decisão" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="361.5" y="270" width="105" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-7" value="Ação caso sim" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="539" y="291.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-8" value="Ação caso não" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="169" y="291.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-9" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-10" value="Teste de diagrama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7StpGDbCdkMAcBUvWgea-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7StpGDbCdkMAcBUvWgea-10" target="7StpGDbCdkMAcBUvWgea-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
